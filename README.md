@@ -7,10 +7,6 @@
 <a href="https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=seeR4WZkLDcUbMnX9dhxpwSvdG3aB6rZH6ytY/1mOGeu3ITkjCESt1ri4DMKMvyS"><img src="https://github.com/audetteluebke/salesforcedev/blob/main/2021-03_Badge_SF-Certified_Sales-Cloud-Consultant_500x490px.png" alt="Salesforce Platform App Builder" width="50"/> Salesforce Platform App Builder<p></a>
 <a href="https://bcert.me/swydycxxm"><img src="https://github.com/audetteluebke/salesforcedev/blob/main/badge-7224.png" alt="Certified Scrum Product Owner (CSPO)" width="50"/> Certified Scrum Product Owner (CSPO)<p></a>
 
-## Contact
-<a href="https://www.linkedin.com/in/audetteluebke/"><img src="https://github.com/audetteluebke/salesforcedev/blob/main/linkedin.png" alt="Kat Audette-Luebke | LinkedIn" width="50"/> Kat Audette-Luebke | LinkedIn</a><p>
-<a href="https://www.salesforce.com/trailblazer/audetteluebke"><img src="https://github.com/audetteluebke/salesforcedev/blob/main/double-star-ranger.png" alt="Kat Audette-Luebke | Salesforce Trailblazer Community" width="50"/> Kat Audette-Luebke | Salesforce Trailblazer Community</a>
-
 <!---
 audetteluebke/audetteluebke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
