@@ -13,8 +13,6 @@
 <img src="https://github.com/audetteluebke/salesforcedev/blob/main/2021-03_Badge_SF-Certified_Sales-Cloud-Consultant_500x490px.png" alt="Salesforce Platform App Builder" width="50"/> Salesforce Platform App Builder<p>
 <img src="https://github.com/audetteluebke/salesforcedev/blob/main/badge-7224.png" alt="Certified Scrum Product Owner (CSPO)" width="50"/> Certified Scrum Product Owner (CSPO)<p>
 
-[![Kat Audette-Luebke's GitHub stats](https://github-readme-stats.vercel.app/api?username=audetteluebke&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!---
 audetteluebke/audetteluebke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
