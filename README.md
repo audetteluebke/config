@@ -1,6 +1,6 @@
 👋 Hi, I'm <a href="https://github.com/audetteluebke">Kathlene Audette-Luebke, Senior Revenue Operations Manager</a> @ <a href="https://www.fulcrumapp.com/"><img src="https://github.com/audetteluebke/audetteluebke/blob/main/fulcrum_logo_small.jpeg" alt="Fulcrum" width="25"/> Fulcrum</a>. <br>
 
-Salt Lake City, Utah, United States
+Salt Lake City, Utah, United States<br>
 <a href="https://www.linkedin.com/in/audetteluebke/">in/audetteluebke</a>
   
 ## Certifications
